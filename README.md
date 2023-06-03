@@ -5,6 +5,7 @@ Visitor： ![Visitor Count](https://profile-counter.glitch.me/gumengyo/count.svg
     <img src="coding.gif">
 </div>
 
+![](https://raw.githubusercontent.com/Gumengyo/Gumengyo/main/assets/github-contribution-grid-snake.svg)
 
 ## About Me 👦
 
