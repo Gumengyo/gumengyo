@@ -9,12 +9,11 @@ Visitor： ![Visitor Count](https://profile-counter.glitch.me/gumengyo/count.svg
 
 ## About Me 👦
 
-Hi，我是顾梦，很高兴能在茫茫人海中遇见你。
+Hi，我是顾梦，一个后端的编程爱好者，仍在努力学习中~
 
 热爱 编程👨‍💻、台球🎱、读书📚、篮球🏀、音乐🎵。
-
-一个后端的编程爱好者，仍在努力学习中~　
-
+- 想了解更多，可以访问我的博客。[顾梦的博客](https://www.jishuqin.cn/)
+- To learn more, you can visit my blog.[Gumeng's blog](https://www.jishuqin.cn/)
 
 ## My Skill Set 
 <table><tr><td valign="top" width="33%">
