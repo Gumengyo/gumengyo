@@ -62,4 +62,4 @@ Hi，我是顾梦，一个后端的编程爱好者，仍在努力学习中~
 <br/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gumengyo&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<img src="bg.png">
