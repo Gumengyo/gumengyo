@@ -5,7 +5,6 @@ Visitor： ![Visitor Count](https://profile-counter.glitch.me/gumengyo/count.svg
     <img src="coding.gif">
 </div>
 
-![](https://raw.githubusercontent.com/Gumengyo/Gumengyo/main/assets/github-contribution-grid-snake.svg)
 
 ## About Me 👦
 
@@ -45,6 +44,7 @@ Hi，我是顾梦，一个后端的编程爱好者，仍在努力学习中~
 
 </td><td valign="top" width="33%">
 
+<img src="https://ghchart.rshah.org/409ba5/gumengyo" alt="???'s Blue Github Chart" />
 
 
 ### DevOps  
