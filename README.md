@@ -6,7 +6,7 @@ Visitor： ![Visitor Count](https://profile-counter.glitch.me/gumengyo/count.svg
 
 <br/>
 <div align="center">
-    <img src="coding.gif">
+    <img src="https://raw.githubusercontent.com/Gumengyo/Gumengyo/main/coding.gif">
 </div>
 
 
