@@ -4,10 +4,11 @@ Visitor： ![Visitor Count](https://profile-counter.glitch.me/gumengyo/count.svg
 
 ![](https://raw.githubusercontent.com/Gumengyo/Gumengyo/output/github-contribution-grid-snake.svg)
 
+<br/>
 <div align="center">
     <img src="coding.gif">
 </div>
-<br/>
+
 
 ## About Me 👦
 
