@@ -8,7 +8,6 @@ Visitor： ![Visitor Count](https://profile-counter.glitch.me/gumengyo/count.svg
     <img src="coding.gif">
 </div>
 <br/>
-<div align="center"><img src="https://ghchart.rshah.org/409ba5/gumengyo" alt="???'s Blue Github Chart" style="width: 100%;" /></div>
 
 ## About Me 👦
 
